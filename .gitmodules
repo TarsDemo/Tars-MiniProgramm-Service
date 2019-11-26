@@ -1,0 +1,15 @@
+[submodule "DataServer"]
+	path = DataServer
+	url = https://github.com/TarsDemo/Tars-MiniProgramm-Service-DataServer
+[submodule "UserInfoServer"]
+	path = UserInfoServer
+	url = https://github.com/TarsDemo/Tars-MiniProgramm-Service-UserInfoServer
+[submodule "ClubActivityServer"]
+	path = ClubActivityServer
+	url = https://github.com/TarsDemo/Tars-MiniProgramm-Service-ClubActivityServer
+[submodule "MessageWallServer"]
+	path = MessageWallServer
+	url = https://github.com/TarsDemo/Tars-MiniProgramm-Service-MessageWallServer
+[submodule "InterfaceServer"]
+	path = InterfaceServer
+	url = https://github.com/TarsDemo/Tars-MiniProgramm-Service-InterfaceServer
