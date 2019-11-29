@@ -142,6 +142,31 @@ nslookup www.tarsdemo.com
 ### <a id="dns-aliyun"></a>阿里云
 待完善……
 
+## <a id="ssl"></a>SSL证书
+### <a id="ssl-tencent-cloud"></a>腾讯云
+在腾讯云主页找到`产品 > 企业应用 > SSL证书`并点击进入，在点击`立即购买`进入证书购买页，这里我们选择免费版域名，如果有其它需求，可以选择其它域名。
+
+![](/docs/images/CloudMigrationTencentCloudSSLBuying.png)
+
+点击`免费快速申请`，进入申请页，填写自己购买的域名和自己的邮箱
+
+![](/docs/images/CloudMigrationTencentCloudSSLApply.png)
+
+然后进行域名身份验证，如果是在腾讯云购买的域名，支持自动DNS验证；如果不是，需要手动添加DNS解析验证
+
+![](/docs/images/CloudMigrationTencentCloudSSLApplyVerify.png)
+
+### <a id="ssl-aliyun"></a>阿里云
+待完善……
+
+## <a id="ba"></a>域名备案
+### <a id="ba-tencent-cloud">腾讯云
+目前腾讯云网页端备案正在升级改造，仅支持使用小程序进行备案，可以扫描下方的小程序码按步骤进行网站备案。备案审核时间会比较长，提交后一个月内会完成审核。
+
+<img src="https://imgcache.qq.com/open_proj/proj_qcloud_v2/mc_2014/beian/new/css/img/beian-img-info.png" style="width: 200px">
+
+### <a id="ba-aliyun-">阿里云
+
 ## <a id="connect-server"></a>连接服务器
 
 服务器可以使用`ssh`协议来远程连接，不同的系统使用的工具不太一样
