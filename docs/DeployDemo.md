@@ -17,8 +17,8 @@
 
 每个服务部署的步骤在每个服务目录的文档中都有详细说明，建议按照以下部署顺序部署服务
 
-* [DataServer](/DataServer)
-* [UserInfoServer](/UserInfoServer)
-* [ClubActivityServer](/ClubActivityServer)
-* [MessageWallServer](/MessageWallServer)
-* [InterfaceServer](/InterfaceServer)
+* [DataServer](https://github.com/TarsDemo/Tars-MiniProgramm-Service-DataServer/tree/release)
+* [UserInfoServer](https://github.com/TarsDemo/Tars-MiniProgramm-Service-UserInfoServer/tree/release)
+* [ClubActivityServer](https://github.com/TarsDemo/Tars-MiniProgramm-Service-ClubActivityServer/tree/release)
+* [MessageWallServer](https://github.com/TarsDemo/Tars-MiniProgramm-Service-MessageWallServer)
+* [InterfaceServer](https://github.com/TarsDemo/Tars-MiniProgramm-Service-InterfaceServer/tree/release)
