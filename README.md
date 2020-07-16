@@ -7,8 +7,8 @@
 了解更多关于Tars的信息，可以参考[Tars详细介绍](https://github.com/TarsCloud/Tars/blob/master/README.zh.md)
 
 ## 基础环境
-* 应用后端使用Tars框架，目前支持的平台是Linux，可以选择运行Linux的云服务器或虚拟机。如果需要将应用部署到云上，可以参考[上云流程](/docs/CloudMigration.md)。
-* Tars基础环境安装可以参考[Tars源码部署安装文档](https://tarscloud.github.io/TarsDocs/rumen/an-zhuang/)或[Docker安装Tars](https://tarscloud.github.io/TarsDocs/rumen/an-zhuang/docker.html)
+* 应用后端使用Tars框架，目前已支持Linux, MacOS, Windows，本项目基于Linux，可以选择运行Linux的云服务器或虚拟机，也可以选择MacOS和Windows平台，参考[Linux/Mac源码部署](https://tarscloud.github.io/TarsDocs/installation/source.html)和[Windows源码部署](https://tarscloud.github.io/TarsDocs/installation/source-windows.html)。如果需要将应用部署到云上，可以参考[上云流程](/docs/CloudMigration.md)。
+* Tars基础环境安装可以参考[Tars源码部署安装文档](https://tarscloud.github.io/TarsDocs/installation/source.html)或[Docker安装Tars](https://tarscloud.github.io/TarsDocs/rumen/an-zhuang/docker.html)
 * 使用的语言：
     * C++
     * Go

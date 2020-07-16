@@ -18,7 +18,7 @@
 ├── UserInfoServer      # 用户信息服务
 ├── MessageWallServer   # 表白墙服务
 ├── InterfaceServer     # 接入服务
-├── docs/images       # 文档图片
+├── docs/images         # 文档图片
 └── README.md
 ```
 
