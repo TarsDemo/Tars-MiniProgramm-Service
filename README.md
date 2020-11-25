@@ -1,23 +1,25 @@
-# Tars案例--生活服务小程序
+# TARS 案例--生活服务小程序
 
-本案例是一个简单的大学生活服务平台小程序应用，包含了简单的用户登录、社团活动管理和表白墙的功能。前端小程序使用了WEPY框架和vant组件，后端服务使用了Tars框架进行开发。
+本案例是一个简单的大学生活服务平台小程序应用，包含了简单的用户登录、社团活动管理和表白墙的功能。前端小程序使用了 WEPY 框架和 vant 组件，后端服务使用了 TARS 框架进行开发。
 
 关于本应用的具体功能及架构信息，参考[项目简介](/docs/Introduction.md)。
 
-了解更多关于Tars的信息，可以参考[Tars详细介绍](https://github.com/TarsCloud/Tars/blob/master/README.zh.md)
+了解更多关于 TARS 的信息，可以参考 [TARS 详细介绍](https://github.com/TarsCloud/Tars/blob/master/README.zh.md)
 
 ## 基础环境
-* 应用后端使用Tars框架，目前已支持Linux, MacOS, Windows，本项目基于Linux，可以选择运行Linux的云服务器或虚拟机，也可以选择MacOS和Windows平台，参考[Linux/Mac源码部署](https://tarscloud.github.io/TarsDocs/installation/source.html)和[Windows源码部署](https://tarscloud.github.io/TarsDocs/installation/source-windows.html)。如果需要将应用部署到云上，可以参考[上云流程](/docs/CloudMigration.md)。
-* Tars基础环境安装可以参考[Tars源码部署安装文档](https://tarscloud.github.io/TarsDocs/installation/source.html)或[Docker安装Tars](https://tarscloud.github.io/TarsDocs/rumen/an-zhuang/docker.html)
+
+* 应用后端使用 TARS 框架，目前已支持 Linux, MacOS, Windows，本项目基于 Linux，可以选择运行 Linux 的云服务器或虚拟机，也可以选择 MacOS 和 Windows 平台，参考[Linux/Mac源码部署](https://tarscloud.github.io/TarsDocs/installation/source.html)和[Windows源码部署](https://tarscloud.github.io/TarsDocs/installation/source-windows.html)。如果需要将应用部署到云上，可以参考[上云流程](/docs/CloudMigration.md)。
+* TARS 基础环境安装可以参考 [TARS 源码部署安装文档](https://tarscloud.github.io/TarsDocs/installation/source.html)或[Docker 安装 TARS](https://tarscloud.github.io/TarsDocs/rumen/an-zhuang/docker.html)
 * 使用的语言：
     * C++
     * Go
     * Node.js
 
 ## 案例实践
-- 还没有使用过Tars开发应用？没关系，我们来学习如何[创建第一个Tars应用](/docs/QuickStart.md)
+
+- 还没有使用过 TARS 开发应用？没关系，我们来学习如何[创建第一个 TARS 应用](/docs/QuickStart.md)
 - 不知道怎么调用服务接口？问题不大，看这一篇就够了--[如何调用服务接口](/docs/HowToUseRPC.md)
-- 已经使用过Tars？那么可以来尝试[部署本案例的服务](/docs/DeployDemo.md)
+- 已经使用过 TARS？那么可以来尝试[部署本案例的服务](/docs/DeployDemo.md)
 
 <!-- ## 目录
 ## <a id="tarsgo-installation"></a> Tars Go安装
