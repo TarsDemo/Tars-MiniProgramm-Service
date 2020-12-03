@@ -1,5 +1,7 @@
 # TARS Demo -- Life Service Miniprogram
 
+[中文版](README.md)
+
 This demo is a simple college life service platform applet, including user login, club event managment and confession wall functions. The front-end uses the WEPY framework and vant component, and the backend uses the TARS framework for development.
 
 For more details on function and architechture of this demo, refer to the [Introduction](/docs/Introduction.md).
