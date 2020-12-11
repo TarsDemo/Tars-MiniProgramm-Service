@@ -1,5 +1,7 @@
 # <a id="create-first-app"></a>Create Your First TARS Application
 
+[中文版](/docs/QuickStart.md)
+
 Once we install TARS environment, we can deploy services on TARS. If you have not installed yet, refer to [TARS Installation](https://tarscloud.github.io/TarsDocs_en/installation/source.html)。
 
 Now, let's create our first TARS application Hello World. TARS supports multiple languages, and we use C++ as example here to use TarsCpp. The development progress is similar for other languages.

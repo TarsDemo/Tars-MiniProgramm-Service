@@ -1,5 +1,7 @@
 # <a id="introduction"></a> Introduction
 
+[中文版](/docs/Introduction.md)
+
 A Life Service Platform applet for college students, which uses WeChat Miniprogram as frontend (WePY framework and vant component), and TARS as backend (Tars.js, TarsGo, TarsCpp), and MySQL as database.
 
 ## <a id="introduction-function"></a> Functions

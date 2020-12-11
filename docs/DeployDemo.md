@@ -1,5 +1,7 @@
 # 案例服务的部署
 
+[English Version](/docs/DeployDemo_en.md)
+
 本案例是一个简单的大学生活服务平台，接下来会介绍案例后端服务的部署，关于项目的具体信息可以查看[项目简介](/docs/Introduction.md)。
 
 如果不清楚服务部署和发布流程或是还没有使用过 TARS，请先看[创建第一个 TARS 应用](/docs/QuickStart.md)。

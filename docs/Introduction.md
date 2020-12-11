@@ -1,5 +1,7 @@
 # <a id="introduction"></a>项目简介
 
+[English Version](/docs/Introduction_en.md)
+
 学生校园生活服务平台小程序，前端为微信小程序（WePY 框架和 vant 组件）；后端使用了 TARS 微服务框架 (Tars.js, TarsGo, TarsCpp)；数据库使用了 MySQL。
 
 ## <a id="introduction-function"></a>功能

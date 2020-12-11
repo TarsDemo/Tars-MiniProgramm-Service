@@ -1,5 +1,7 @@
 # Deploy Demo Services
 
+[中文版](/docs/DeployDemo.md)
+
 This demo is a simple college life service platform. This document will introduce how to deploy the backend services. About the detail of this project, refer to [Introduction](/docs/Introduction_en.md).
 
 If you don't know how th deploy and publish service, or haven't used TARS, refer to [Create Your First TARS Application](/docs/QuickStart_en.md).

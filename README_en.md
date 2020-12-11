@@ -4,7 +4,7 @@
 
 This demo is a simple college life service platform applet, including user login, club event managment and confession wall functions. The front-end uses the WEPY framework and vant component, and the backend uses the TARS framework for development.
 
-For more details on function and architechture of this demo, refer to the [Introduction](/docs/Introduction.md).
+For more details on function and architechture of this demo, refer to the [Introduction](/docs/Introduction_en.md).
 
 For more information about TARS, refer to [Document of TARS](https://tarscloud.github.io/TarsDocs_en/SUMMARY.html#intro)
 
@@ -19,6 +19,6 @@ For more information about TARS, refer to [Document of TARS](https://tarscloud.g
 
 ## Practice
 
-- Haven't used TARS yet? Doesn't matter, let's learn [How To Create The 1st TARS Application](/docs/QuickStart.md)
-- Don't know how to call the service interface？Doesn't matter, it's enough to read this one --[How To Call The Interface of Service](/docs/HowToUseRPC.md)
-- Have used TARS? Then try to [Deploy The Service of This Demo](/docs/DeployDemo.md)
+- Haven't used TARS yet? Doesn't matter, let's learn [How To Create The 1st TARS Application](/docs/QuickStart_en.md)
+- Don't know how to call the service interface？Doesn't matter, it's enough to read this one --[How To Call The Interface of Service](/docs/HowToUseRPC_en.md)
+- Have used TARS? Then try to [Deploy The Service of This Demo](/docs/DeployDemo_en.md)
